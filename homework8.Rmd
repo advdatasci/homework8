@@ -4,4 +4,39 @@ output: html_document
 author: "Your Name"
 ---
 
+
+
 ## Data Analysis
+
+Read these articles: 
+  - https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1762613
+  - https://journals.sagepub.com/doi/full/10.1177/0956797611417632
+  - https://journals.sagepub.com/doi/10.1177/2515245917747646
+  
+### Summary
+
+Delete this text and write a summary of what the goal of the analysis done by the analysis teams in the many analysts paper. 
+
+### Type of question
+
+Delete this text and answer what type of question (inferential, predictive, causal, or other) that the analysis teams were trying to answer
+
+### Define the signal
+
+Delete this text and define the "signal" in the data analysis - what is the parameter the analysts care about? 
+
+### Define the artifacts
+
+Delete this text and define the artifacts in the data analysis - what are the potential artifacts or systematic noise in the data set? 
+
+### Define the uncertainty
+
+Delete this text and explain how statistically certain we are about the signal size. 
+
+### Researcher degrees of freedom
+
+Delete this text and write what you think were the most common "clusters" of decisions made by analysts (what types of models, what variables included, etc.). Do you think that these have more or less impact on the uncertainty than the statistical uncertainty? 
+
+### How would you analyze the data
+
+Delete this text and explain if you were doing this analysis how would you do it? Do you agree with one or more of the teams? 
